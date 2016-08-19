@@ -1,7 +1,7 @@
 # A Python script to simulate a hangman game.
 # The words used in this game are the names of movies.
 # The user has 8 lives to correctly guess the name of the movie .
-import os,random,time
+import os,random
 
 # 'hangmanPattern' is a function that stores all the 8 different hangman patterns .
 # 8 different patterns to indicate each of those 8 lives.
